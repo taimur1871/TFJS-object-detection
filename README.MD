@@ -75,9 +75,7 @@ And start:
 npm start
 ```
 
-The application is going to run at `[http://localhost:3000](http://localhost:3000)` and you should see something similar to this:
-
-![App home page](./git_media/homepage.png)
+The application is going to run at `[http://localhost:3000](http://localhost:3000)`.
 
 The model takes from 1 to 2 seconds to load and, after that, you can show the objects images to the camera and the application is going to draw bounding boxes around them.
 
